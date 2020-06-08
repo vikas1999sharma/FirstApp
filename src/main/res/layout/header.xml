@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:padding="20dp"
+    android:gravity="bottom"
+    android:background="#fec">
+<ImageView
+    android:layout_width="75dp"
+    android:layout_height="75dp"
+    android:src="@drawable/ic_directions_bike_black_24dp"
+    ></ImageView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bull Eye Ride For Learn"
+        android:fontFamily="sans-serif-black"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        ></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="vikassharmapandey@gmail.com"
+        android:textSize="14sp"
+        android:fontFamily="sans-serif-light"
+        ></TextView>
+</LinearLayout>
